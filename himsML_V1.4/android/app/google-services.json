@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421291432202",
+    "project_id": "himsml-e0a76",
+    "storage_bucket": "himsml-e0a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421291432202:android:67ccaf7d8c99e0f01282f3",
+        "android_client_info": {
+          "package_name": "com.example.himsML"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421291432202-oi02p24ou69codl5akbl8grridgv9jqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY4XrVpzycTRGtrVOOAI3X71FTqFUTlwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421291432202-oi02p24ou69codl5akbl8grridgv9jqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
